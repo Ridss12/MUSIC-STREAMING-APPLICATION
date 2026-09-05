@@ -1,0 +1,22 @@
+{
+  "0": "add_to_playlist",
+  "1": "decrease_volume",
+  "2": "dislike_song",
+  "3": "increase_volume",
+  "4": "like_song",
+  "5": "mute",
+  "6": "next_song",
+  "7": "open_playlist",
+  "8": "pause_music",
+  "9": "play_music",
+  "10": "previous_song",
+  "11": "remove_from_playlist",
+  "12": "repeat_song",
+  "13": "resume_music",
+  "14": "search_artist",
+  "15": "search_song",
+  "16": "show_lyrics",
+  "17": "shuffle",
+  "18": "stop_music",
+  "19": "unmute"
+}
