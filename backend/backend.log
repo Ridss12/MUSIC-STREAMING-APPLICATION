@@ -1,0 +1,31 @@
+INFO:     Started server process [4511]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:46994 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54244 - "GET /settings/profile HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:33814 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:41536 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55994 - "GET /settings/profile HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44642 - "GET /settings/notifications HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59568 - "GET /settings/playback HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57320 - "PUT /settings/profile HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43956 - "PUT /settings/notifications HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56764 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:51962 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:51976 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:38022 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:38028 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:38036 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58276 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:44862 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:38466 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55804 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55810 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55812 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:46854 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:43724 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [4511]
